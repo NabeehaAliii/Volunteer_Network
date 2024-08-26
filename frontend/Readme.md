@@ -48,6 +48,9 @@ Including some screenshots showcasing the application's functionality.
 <img width="945" alt="Register_SignUp" src="https://github.com/user-attachments/assets/f59bbdcb-c749-4623-8cc1-2f6274abc7ed">
 *Description: New users can sign up to become members of the Volunteer Network.*
 
+### Donation
+<img width="930" alt="Donation" src="https://github.com/user-attachments/assets/e2bd50d4-6de1-4087-83fa-e4a60bbbe570">
+*Description: Users can donate to any registered organization in the Volunteer Network.*
 ---
 
 ## Features
