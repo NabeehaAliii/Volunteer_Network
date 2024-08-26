@@ -69,7 +69,6 @@ Including some screenshots showcasing the application's functionality.
 - [**React.js**](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [**React Router**](https://reactrouter.com/) - For handling routing in React applications.
 - [**Axios**](https://axios-http.com/) - For making HTTP requests to the backend API.
-- [**Redux**](https://redux.js.org/) - State management library.
 - [**Tailwind CSS**](https://tailwindcss.com/) - Utility-first CSS framework for styling.
 - [**JWT Decode**](https://github.com/auth0/jwt-decode) - For decoding JSON Web Tokens.
 ---
@@ -166,10 +165,6 @@ Volunteer_Network/
 │   │   │   ├── Organization/
 │   │   │   ├── Profile/
 │   │   │   └── Auth/
-│   │   ├── redux/
-│   │   │   ├── actions/
-│   │   │   ├── reducers/
-│   │   │   └── store.js
 │   │   ├── routes/
 │   │   │   └── AppRouter.js
 │   │   ├── services/
@@ -192,7 +187,6 @@ Volunteer_Network/
   - **assets/**: Stores images, fonts, and other static assets.
   - **components/**: Reusable UI components.
   - **pages/**: Components representing different pages/routes.
-  - **redux/**: Redux setup including actions, reducers, and store configuration.
   - **routes/**: Application routing configuration.
   - **services/**: Contains API service files for handling HTTP requests.
   - **utils/**: Utility functions and helpers.
