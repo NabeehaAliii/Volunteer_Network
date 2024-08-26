@@ -1,14 +1,10 @@
-Certainly! Here's a comprehensive `README.md` template for the **frontend** of your **Volunteer Network** project. You can customize it by filling in specific details where necessary.
-
----
-
 # Volunteer Network Frontend
 
-This repository contains the frontend code for the **Volunteer Network** application. The frontend is built using **React.js** and provides a user-friendly interface for volunteers and organizations to connect, manage opportunities, and facilitate donations.
+This repository contains the frontend code for the **Volunteer Network** application. The front end is built using **React.js** and provides a user-friendly interface for volunteers and organizations to connect, manage opportunities, and facilitate donations.
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
@@ -20,23 +16,37 @@ This repository contains the frontend code for the **Volunteer Network** applica
 - [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
 ---
 
-## Demo
+## Screenshots
+Including some screenshots showcasing the application's functionality.
 
-> **Optional:** Includin some screenshots showcasing the application's functionality.
+### Home Page
+<img width="948" alt="HomePage" src="https://github.com/user-attachments/assets/32af1c4d-b0ac-451f-96b9-846f52dde4dd">
 
-**Screenshots:**
+*Description: The main landing page of the Volunteer Network.*
 
-![Home Page](link-to-screenshot-1)
-*Description of the screenshot.*
+### Opportunities Search Page
+<img width="959" alt="Finding_Opportunities_based_on_preferences" src="https://github.com/user-attachments/assets/af995d09-496a-4711-a961-7ab2068ea9aa">
 
-![Opportunities Page](link-to-screenshot-2)
-*Description of the screenshot.*
+*Description: Users can search for volunteer opportunities based on their preferences.*
+
+### Login Page
+<img width="949" alt="login" src="https://github.com/user-attachments/assets/7d1c54ef-3f9d-49ac-bc90-91c4c79b9858">
+
+*Description: Users can log in to access more features.*
+
+### Organization List Based on Location
+<img width="918" alt="Organization_list_based_on_location" src="https://github.com/user-attachments/assets/c3b8a910-dc9c-46c2-85d8-f15d04abbad1">
+
+*Description: Users can search for organizations based on their location.*
+
+### Register/Sign Up Page
+<img width="945" alt="Register_SignUp" src="https://github.com/user-attachments/assets/f59bbdcb-c749-4623-8cc1-2f6274abc7ed">
+*Description: New users can sign up to become members of the Volunteer Network.*
 
 ---
 
@@ -101,12 +111,6 @@ Follow these instructions to set up and run the frontend application on your loc
    npm install
    ```
 
-   Or using yarn:
-
-   ```bash
-   yarn install
-   ```
-
 ### Running the Application
 
 1. **Start the development server:**
@@ -115,12 +119,6 @@ Follow these instructions to set up and run the frontend application on your loc
 
    ```bash
    npm start
-   ```
-
-   Or using yarn:
-
-   ```bash
-   yarn start
    ```
 
 2. **Access the application:**
@@ -141,12 +139,6 @@ Using npm:
 
 ```bash
 npm run build
-```
-
-Or using yarn:
-
-```bash
-yarn build
 ```
 
 This will create an optimized production build in the `build` folder.
