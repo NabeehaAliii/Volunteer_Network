@@ -51,16 +51,17 @@ Including some screenshots showcasing the application's functionality.
 ### Donation
 <img width="930" alt="Donation" src="https://github.com/user-attachments/assets/e2bd50d4-6de1-4087-83fa-e4a60bbbe570">
 *Description: Users can donate to any registered organization in the Volunteer Network.*
+
 ---
 
 ## Features
 
-- **User Authentication:** Sign up and log in functionality for volunteers and organizations.
+- **User Authentication:** Sign up and log-in functionality for volunteers and organizations.
 - **Browse Opportunities:** View and search for available volunteering opportunities.
 - **Opportunity Management:** Organizations can create, update, and delete opportunities.
 - **Donation System:** Users can make donations.
 - **Responsive Design:** Optimized for various device sizes.
-- **Interactive UI:** Smooth and intuitive user experience with easy to use design.
+- **Interactive UI:** Smooth and intuitive user experience with easy-to-use design.
 - **Profile Management:** Users can manage their profiles.
 
 ---
